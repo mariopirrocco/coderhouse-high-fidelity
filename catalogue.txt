@@ -1,0 +1,1 @@
+[{"artist":"Fito Páez","record":"El amor después del amor","id":1},{"artist":"Soda Stereo","record":"Canción animal","id":2},{"artist":"Charly García","record":"Parte de la religión","id":3},{"artist":"Particio Rey","record":"Oktubre","id":4}]
